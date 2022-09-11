@@ -34,8 +34,10 @@ public class Main {
         int len = array.length;
         bubbleSort(array,len);
 
+
         System.out.println("Bubble Sort:");
         System.out.println("Insertion Sort:");
+
         
         int [] array2 = {3,6,2,10,3,7,11,0};
         insertionSort(array2);
